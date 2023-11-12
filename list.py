@@ -8,7 +8,7 @@ print("The sorted list is", List2)
 
 List3 = []
 List3 = List1.copy()
-print("List3 = ", List3)
+print("Copy of the reversed list = ", List3)
 
 indexValue = List2[2:6]
-print("The index values are ", indexValue)
+print("The index values(2:6)", indexValue)
